@@ -37,3 +37,10 @@ body{
 	border-bottom: 1px solid #ddd;
 	padding: 10px;
 }
+a{
+	color: #000000;
+}
+a:hover{
+	color: #000000;
+	text-decoration: none;
+}
